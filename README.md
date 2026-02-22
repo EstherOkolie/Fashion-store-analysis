@@ -1,5 +1,4 @@
 ### Fashion Retail Sales Analysis
-![image](Fashion store scrht.png)
 
 This project analyzes sales performance for a multi-brand fashion retail store using transactional order and product data. The goal is to identify key revenue drivers, demand patterns across brands and categories, and assess the impact of discounting on pricing efficiency and profitability.
 
